@@ -5,7 +5,6 @@
 ![Captura de Tela (61)](https://user-images.githubusercontent.com/101683017/179888295-dc9df53e-9067-4f7a-80a5-f5edaeb1e669.png)
 
 ************************************************************************************************************
-
 Programa: Color Flipper
 <br>
 Autor: Igor Castilhos
@@ -13,7 +12,7 @@ Autor: Igor Castilhos
 
 É possível testar o app pelo link:https://color-flipper-j6iezhius-igorcastilhos.vercel.app/
 
-A ideia é ter um botão e quando ele for pressionado, reparar que a cor do background é trocada, além de mostrar
-qual cor está sendo usada. São dois setups, um onde são usadas pequenas quantidades de cores(um array com uma 
-quantidade fixa) e o outro set será o de Hex Colors que irá gerar novas cores.
+A ideia é ter um botão principal que, quando pressionado, troca a cor do background, além de mostrar
+qual cor está sendo usada. São dois setups, um onde são usadas 4 quantidades de cores(um array com uma 
+quantidade fixa) e o outro set será o de Hex Colors que irá gerar "infinitas" cores.
 ************************************************************************************************************
