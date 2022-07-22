@@ -15,4 +15,15 @@ Autor: Igor Castilhos
 A ideia é ter um botão principal que, quando pressionado, troca a cor do background, além de mostrar
 qual cor está sendo usada. São dois setups, um onde são usadas 4 quantidades de cores(um array com uma 
 quantidade fixa) e o outro set será o de Hex Colors que irá gerar "infinitas" cores.
+
+Conceitos usados no projeto:
+
+-arrays<br>
+-document.getElementById()<br>
+-document.querySelector()<br>
+-addEventListener()<br>
+-document.body.style.backgroundColor<br>
+-Math.floor()<br>
+-Math.random()<br>
+-array.length
 ************************************************************************************************************
